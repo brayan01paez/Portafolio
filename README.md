@@ -19,7 +19,8 @@ Soy Ana García, una apasionada desarrolladora Front-end dedicada a crear experi
 * **Proyecto 1: Portafolio de Ana García**
     * Descripción: Un blog personal diseñado para mostrar contenido de forma clara y atractiva, utilizando React para la interactividad y HTML/CSS para el diseño.
     * Características principales:
-    *Diseño limpio y moderno.
+   
+      *Diseño limpio y moderno.
 
       *Sistema de navegación fácil de usar.
   
@@ -27,7 +28,7 @@ Soy Ana García, una apasionada desarrolladora Front-end dedicada a crear experi
   
       *Adaptabilidad a diferentes dispositivos (diseño responsivo).
   
-    * Enlace: [Enlace al proyecto o al repositorio].
+    * Enlace: [https://portafolio-eight-lime.vercel.app/].
      ![Imagen del proyecto 1](https://github.com/user-attachments/assets/6a6c2bf8-4242-4285-b5db-c50ea4721db0)
    ![Imagen del proyecto 1](https://github.com/user-attachments/assets/b5d2a8b9-ef2b-46ee-b5db-8aa3ab8e74a0)
 
