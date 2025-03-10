@@ -6,7 +6,8 @@
 
 Soy Ana García, una apasionada desarrolladora Front-end dedicada a crear experiencias web atractivas y funcionales. Mi enfoque se centra en ayudar a pequeños negocios y diseñadores a materializar sus ideas y a destacar en el mundo digital.
 
-![Imagen de la sección "Sobre mí"](URL_DE_TU_IMAGEN_SOBRE_MI)
+
+![Imagen de la sección "Sobre mí"](https://github.com/user-attachments/assets/a3559cbe-664d-47e1-9de0-170db17dec5b)
 
 > "Como desarrolladora Front-end, mi meta es potenciar el éxito de mis clientes mediante soluciones web innovadoras y de alta calidad. Creo firmemente en la capacidad de una interfaz bien diseñada para conectar con el público y transmitir la esencia de una marca. Mi enfoque se basa en la colaboración y la comunicación, asegurando que cada proyecto refleje las necesidades y expectativas de mis clientes. Si tienes una idea en mente, ¡me encantaría ayudarte a convertirla en realidad!"
 
@@ -15,10 +16,20 @@ Soy Ana García, una apasionada desarrolladora Front-end dedicada a crear experi
 * CSS3
 
 ## Proyectos destacados
-* **Proyecto 1: [Nombre del proyecto]**
-    * Descripción: [Breve descripción del proyecto y sus características principales].
+* **Proyecto 1: Portafolio de Ana García**
+    * Descripción: Un blog personal diseñado para mostrar contenido de forma clara y atractiva, utilizando React para la interactividad y HTML/CSS para el diseño.
+    * Características principales:
+    *Diseño limpio y moderno.
+
+      *Sistema de navegación fácil de usar.
+  
+      *Presentación de artículos con imágenes y texto.
+  
+      *Adaptabilidad a diferentes dispositivos (diseño responsivo).
+  
     * Enlace: [Enlace al proyecto o al repositorio].
-    * ![Imagen del proyecto 1](URL_DE_LA_IMAGEN_DEL_PROYECTO_1)
+     ![Imagen del proyecto 1](https://github.com/user-attachments/assets/6a6c2bf8-4242-4285-b5db-c50ea4721db0)
+   ![Imagen del proyecto 1](https://github.com/user-attachments/assets/b5d2a8b9-ef2b-46ee-b5db-8aa3ab8e74a0)
 
   ## Contribuciones
 
